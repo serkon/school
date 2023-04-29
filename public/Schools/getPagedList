@@ -1,0 +1,2052 @@
+[
+    {
+        "id": 1,
+        "recordStatus": 1,
+        "name": "Okul 1",
+        "code": "OKL1",
+        "institutionId": 1,
+        "institution": {
+            "id": 1,
+            "recordStatus": 1,
+            "name": "Kurum 1",
+            "code": "KRM1"
+        },
+        "institutionTypeId": 1,
+        "institutionType": {
+            "id": 1,
+            "recordStatus": 1,
+            "name": "Kurum Türü 1",
+            "code": "KRMTR1"
+        },
+        "cityId": 1,
+        "city": {
+            "id": 1,
+            "recordStatus": 1,
+            "name": "Şehir 1",
+            "code": "SHR1"
+        },
+        "countyId": 1,
+        "county": {
+            "id": 1,
+            "recordStatus": 1,
+            "name": "İlçe 1",
+            "code": "ILC1",
+            "cityId": 1,
+            "city": {
+                "id": 1,
+                "recordStatus": 1,
+                "name": "Şehir 1",
+                "code": "SHR1"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "recordStatus": 1,
+        "name": "Okul 2",
+        "code": "OKL2",
+        "institutionId": 2,
+        "institution": {
+            "id": 2,
+            "recordStatus": 1,
+            "name": "Kurum 2",
+            "code": "KRM2"
+        },
+        "institutionTypeId": 2,
+        "institutionType": {
+            "id": 2,
+            "recordStatus": 1,
+            "name": "Kurum Türü 2",
+            "code": "KRMTR2"
+        },
+        "cityId": 2,
+        "city": {
+            "id": 2,
+            "recordStatus": 1,
+            "name": "Şehir 2",
+            "code": "SHR2"
+        },
+        "countyId": 2,
+        "county": {
+            "id": 2,
+            "recordStatus": 1,
+            "name": "İlçe 2",
+            "code": "ILC2",
+            "cityId": 2,
+            "city": {
+                "id": 2,
+                "recordStatus": 1,
+                "name": "Şehir 2",
+                "code": "SHR2"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "recordStatus": 1,
+        "name": "Okul 3",
+        "code": "OKL3",
+        "institutionId": 3,
+        "institution": {
+            "id": 3,
+            "recordStatus": 1,
+            "name": "Kurum 3",
+            "code": "KRM3"
+        },
+        "institutionTypeId": 3,
+        "institutionType": {
+            "id": 3,
+            "recordStatus": 1,
+            "name": "Kurum Türü 3",
+            "code": "KRMTR3"
+        },
+        "cityId": 3,
+        "city": {
+            "id": 3,
+            "recordStatus": 1,
+            "name": "Şehir 3",
+            "code": "SHR3"
+        },
+        "countyId": 3,
+        "county": {
+            "id": 3,
+            "recordStatus": 1,
+            "name": "İlçe 3",
+            "code": "ILC3",
+            "cityId": 3,
+            "city": {
+                "id": 3,
+                "recordStatus": 1,
+                "name": "Şehir 3",
+                "code": "SHR3"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "recordStatus": 1,
+        "name": "Okul 4",
+        "code": "OKL4",
+        "institutionId": 4,
+        "institution": {
+            "id": 4,
+            "recordStatus": 1,
+            "name": "Kurum 4",
+            "code": "KRM4"
+        },
+        "institutionTypeId": 4,
+        "institutionType": {
+            "id": 4,
+            "recordStatus": 1,
+            "name": "Kurum Türü 4",
+            "code": "KRMTR4"
+        },
+        "cityId": 4,
+        "city": {
+            "id": 4,
+            "recordStatus": 1,
+            "name": "Şehir 4",
+            "code": "SHR4"
+        },
+        "countyId": 4,
+        "county": {
+            "id": 4,
+            "recordStatus": 1,
+            "name": "İlçe 4",
+            "code": "ILC4",
+            "cityId": 4,
+            "city": {
+                "id": 4,
+                "recordStatus": 1,
+                "name": "Şehir 4",
+                "code": "SHR4"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "recordStatus": 1,
+        "name": "Okul 5",
+        "code": "OKL5",
+        "institutionId": 5,
+        "institution": {
+            "id": 5,
+            "recordStatus": 1,
+            "name": "Kurum 5",
+            "code": "KRM5"
+        },
+        "institutionTypeId": 5,
+        "institutionType": {
+            "id": 5,
+            "recordStatus": 1,
+            "name": "Kurum Türü 5",
+            "code": "KRMTR5"
+        },
+        "cityId": 5,
+        "city": {
+            "id": 5,
+            "recordStatus": 1,
+            "name": "Şehir 5",
+            "code": "SHR5"
+        },
+        "countyId": 5,
+        "county": {
+            "id": 5,
+            "recordStatus": 1,
+            "name": "İlçe 5",
+            "code": "ILC5",
+            "cityId": 5,
+            "city": {
+                "id": 5,
+                "recordStatus": 1,
+                "name": "Şehir 5",
+                "code": "SHR5"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "recordStatus": 1,
+        "name": "Okul 6",
+        "code": "OKL6",
+        "institutionId": 6,
+        "institution": {
+            "id": 6,
+            "recordStatus": 1,
+            "name": "Kurum 6",
+            "code": "KRM6"
+        },
+        "institutionTypeId": 6,
+        "institutionType": {
+            "id": 6,
+            "recordStatus": 1,
+            "name": "Kurum Türü 6",
+            "code": "KRMTR6"
+        },
+        "cityId": 6,
+        "city": {
+            "id": 6,
+            "recordStatus": 1,
+            "name": "Şehir 6",
+            "code": "SHR6"
+        },
+        "countyId": 6,
+        "county": {
+            "id": 6,
+            "recordStatus": 1,
+            "name": "İlçe 6",
+            "code": "ILC6",
+            "cityId": 6,
+            "city": {
+                "id": 6,
+                "recordStatus": 1,
+                "name": "Şehir 6",
+                "code": "SHR6"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "recordStatus": 1,
+        "name": "Okul 7",
+        "code": "OKL7",
+        "institutionId": 7,
+        "institution": {
+            "id": 7,
+            "recordStatus": 1,
+            "name": "Kurum 7",
+            "code": "KRM7"
+        },
+        "institutionTypeId": 7,
+        "institutionType": {
+            "id": 7,
+            "recordStatus": 1,
+            "name": "Kurum Türü 7",
+            "code": "KRMTR7"
+        },
+        "cityId": 7,
+        "city": {
+            "id": 7,
+            "recordStatus": 1,
+            "name": "Şehir 7",
+            "code": "SHR7"
+        },
+        "countyId": 7,
+        "county": {
+            "id": 7,
+            "recordStatus": 1,
+            "name": "İlçe 7",
+            "code": "ILC7",
+            "cityId": 7,
+            "city": {
+                "id": 7,
+                "recordStatus": 1,
+                "name": "Şehir 7",
+                "code": "SHR7"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "recordStatus": 1,
+        "name": "Okul 8",
+        "code": "OKL8",
+        "institutionId": 8,
+        "institution": {
+            "id": 8,
+            "recordStatus": 1,
+            "name": "Kurum 8",
+            "code": "KRM8"
+        },
+        "institutionTypeId": 8,
+        "institutionType": {
+            "id": 8,
+            "recordStatus": 1,
+            "name": "Kurum Türü 8",
+            "code": "KRMTR8"
+        },
+        "cityId": 8,
+        "city": {
+            "id": 8,
+            "recordStatus": 1,
+            "name": "Şehir 8",
+            "code": "SHR8"
+        },
+        "countyId": 8,
+        "county": {
+            "id": 8,
+            "recordStatus": 1,
+            "name": "İlçe 8",
+            "code": "ILC8",
+            "cityId": 8,
+            "city": {
+                "id": 8,
+                "recordStatus": 1,
+                "name": "Şehir 8",
+                "code": "SHR8"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "recordStatus": 1,
+        "name": "Okul 9",
+        "code": "OKL9",
+        "institutionId": 9,
+        "institution": {
+            "id": 9,
+            "recordStatus": 1,
+            "name": "Kurum 9",
+            "code": "KRM9"
+        },
+        "institutionTypeId": 9,
+        "institutionType": {
+            "id": 9,
+            "recordStatus": 1,
+            "name": "Kurum Türü 9",
+            "code": "KRMTR9"
+        },
+        "cityId": 9,
+        "city": {
+            "id": 9,
+            "recordStatus": 1,
+            "name": "Şehir 9",
+            "code": "SHR9"
+        },
+        "countyId": 9,
+        "county": {
+            "id": 9,
+            "recordStatus": 1,
+            "name": "İlçe 9",
+            "code": "ILC9",
+            "cityId": 9,
+            "city": {
+                "id": 9,
+                "recordStatus": 1,
+                "name": "Şehir 9",
+                "code": "SHR9"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "recordStatus": 1,
+        "name": "Okul 10",
+        "code": "OKL10",
+        "institutionId": 10,
+        "institution": {
+            "id": 10,
+            "recordStatus": 1,
+            "name": "Kurum 10",
+            "code": "KRM10"
+        },
+        "institutionTypeId": 10,
+        "institutionType": {
+            "id": 10,
+            "recordStatus": 1,
+            "name": "Kurum Türü 10",
+            "code": "KRMTR10"
+        },
+        "cityId": 10,
+        "city": {
+            "id": 10,
+            "recordStatus": 1,
+            "name": "Şehir 10",
+            "code": "SHR10"
+        },
+        "countyId": 10,
+        "county": {
+            "id": 10,
+            "recordStatus": 1,
+            "name": "İlçe 10",
+            "code": "ILC10",
+            "cityId": 10,
+            "city": {
+                "id": 10,
+                "recordStatus": 1,
+                "name": "Şehir 10",
+                "code": "SHR10"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "recordStatus": 1,
+        "name": "Okul 11",
+        "code": "OKL11",
+        "institutionId": 11,
+        "institution": {
+            "id": 11,
+            "recordStatus": 1,
+            "name": "Kurum 11",
+            "code": "KRM11"
+        },
+        "institutionTypeId": 11,
+        "institutionType": {
+            "id": 11,
+            "recordStatus": 1,
+            "name": "Kurum Türü 11",
+            "code": "KRMTR11"
+        },
+        "cityId": 11,
+        "city": {
+            "id": 11,
+            "recordStatus": 1,
+            "name": "Şehir 11",
+            "code": "SHR11"
+        },
+        "countyId": 11,
+        "county": {
+            "id": 11,
+            "recordStatus": 1,
+            "name": "İlçe 11",
+            "code": "ILC11",
+            "cityId": 11,
+            "city": {
+                "id": 11,
+                "recordStatus": 1,
+                "name": "Şehir 11",
+                "code": "SHR11"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "recordStatus": 1,
+        "name": "Okul 12",
+        "code": "OKL12",
+        "institutionId": 12,
+        "institution": {
+            "id": 12,
+            "recordStatus": 1,
+            "name": "Kurum 12",
+            "code": "KRM12"
+        },
+        "institutionTypeId": 12,
+        "institutionType": {
+            "id": 12,
+            "recordStatus": 1,
+            "name": "Kurum Türü 12",
+            "code": "KRMTR12"
+        },
+        "cityId": 12,
+        "city": {
+            "id": 12,
+            "recordStatus": 1,
+            "name": "Şehir 12",
+            "code": "SHR12"
+        },
+        "countyId": 12,
+        "county": {
+            "id": 12,
+            "recordStatus": 1,
+            "name": "İlçe 12",
+            "code": "ILC12",
+            "cityId": 12,
+            "city": {
+                "id": 12,
+                "recordStatus": 1,
+                "name": "Şehir 12",
+                "code": "SHR12"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "recordStatus": 1,
+        "name": "Okul 13",
+        "code": "OKL13",
+        "institutionId": 13,
+        "institution": {
+            "id": 13,
+            "recordStatus": 1,
+            "name": "Kurum 13",
+            "code": "KRM13"
+        },
+        "institutionTypeId": 13,
+        "institutionType": {
+            "id": 13,
+            "recordStatus": 1,
+            "name": "Kurum Türü 13",
+            "code": "KRMTR13"
+        },
+        "cityId": 13,
+        "city": {
+            "id": 13,
+            "recordStatus": 1,
+            "name": "Şehir 13",
+            "code": "SHR13"
+        },
+        "countyId": 13,
+        "county": {
+            "id": 13,
+            "recordStatus": 1,
+            "name": "İlçe 13",
+            "code": "ILC13",
+            "cityId": 13,
+            "city": {
+                "id": 13,
+                "recordStatus": 1,
+                "name": "Şehir 13",
+                "code": "SHR13"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "recordStatus": 1,
+        "name": "Okul 14",
+        "code": "OKL14",
+        "institutionId": 14,
+        "institution": {
+            "id": 14,
+            "recordStatus": 1,
+            "name": "Kurum 14",
+            "code": "KRM14"
+        },
+        "institutionTypeId": 14,
+        "institutionType": {
+            "id": 14,
+            "recordStatus": 1,
+            "name": "Kurum Türü 14",
+            "code": "KRMTR14"
+        },
+        "cityId": 14,
+        "city": {
+            "id": 14,
+            "recordStatus": 1,
+            "name": "Şehir 14",
+            "code": "SHR14"
+        },
+        "countyId": 14,
+        "county": {
+            "id": 14,
+            "recordStatus": 1,
+            "name": "İlçe 14",
+            "code": "ILC14",
+            "cityId": 14,
+            "city": {
+                "id": 14,
+                "recordStatus": 1,
+                "name": "Şehir 14",
+                "code": "SHR14"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "recordStatus": 1,
+        "name": "Okul 15",
+        "code": "OKL15",
+        "institutionId": 15,
+        "institution": {
+            "id": 15,
+            "recordStatus": 1,
+            "name": "Kurum 15",
+            "code": "KRM15"
+        },
+        "institutionTypeId": 15,
+        "institutionType": {
+            "id": 15,
+            "recordStatus": 1,
+            "name": "Kurum Türü 15",
+            "code": "KRMTR15"
+        },
+        "cityId": 15,
+        "city": {
+            "id": 15,
+            "recordStatus": 1,
+            "name": "Şehir 15",
+            "code": "SHR15"
+        },
+        "countyId": 15,
+        "county": {
+            "id": 15,
+            "recordStatus": 1,
+            "name": "İlçe 15",
+            "code": "ILC15",
+            "cityId": 15,
+            "city": {
+                "id": 15,
+                "recordStatus": 1,
+                "name": "Şehir 15",
+                "code": "SHR15"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "recordStatus": 1,
+        "name": "Okul 16",
+        "code": "OKL16",
+        "institutionId": 16,
+        "institution": {
+            "id": 16,
+            "recordStatus": 1,
+            "name": "Kurum 16",
+            "code": "KRM16"
+        },
+        "institutionTypeId": 16,
+        "institutionType": {
+            "id": 16,
+            "recordStatus": 1,
+            "name": "Kurum Türü 16",
+            "code": "KRMTR16"
+        },
+        "cityId": 16,
+        "city": {
+            "id": 16,
+            "recordStatus": 1,
+            "name": "Şehir 16",
+            "code": "SHR16"
+        },
+        "countyId": 16,
+        "county": {
+            "id": 16,
+            "recordStatus": 1,
+            "name": "İlçe 16",
+            "code": "ILC16",
+            "cityId": 16,
+            "city": {
+                "id": 16,
+                "recordStatus": 1,
+                "name": "Şehir 16",
+                "code": "SHR16"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "recordStatus": 1,
+        "name": "Okul 17",
+        "code": "OKL17",
+        "institutionId": 17,
+        "institution": {
+            "id": 17,
+            "recordStatus": 1,
+            "name": "Kurum 17",
+            "code": "KRM17"
+        },
+        "institutionTypeId": 17,
+        "institutionType": {
+            "id": 17,
+            "recordStatus": 1,
+            "name": "Kurum Türü 17",
+            "code": "KRMTR17"
+        },
+        "cityId": 17,
+        "city": {
+            "id": 17,
+            "recordStatus": 1,
+            "name": "Şehir 17",
+            "code": "SHR17"
+        },
+        "countyId": 17,
+        "county": {
+            "id": 17,
+            "recordStatus": 1,
+            "name": "İlçe 17",
+            "code": "ILC17",
+            "cityId": 17,
+            "city": {
+                "id": 17,
+                "recordStatus": 1,
+                "name": "Şehir 17",
+                "code": "SHR17"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "recordStatus": 1,
+        "name": "Okul 18",
+        "code": "OKL18",
+        "institutionId": 18,
+        "institution": {
+            "id": 18,
+            "recordStatus": 1,
+            "name": "Kurum 18",
+            "code": "KRM18"
+        },
+        "institutionTypeId": 18,
+        "institutionType": {
+            "id": 18,
+            "recordStatus": 1,
+            "name": "Kurum Türü 18",
+            "code": "KRMTR18"
+        },
+        "cityId": 18,
+        "city": {
+            "id": 18,
+            "recordStatus": 1,
+            "name": "Şehir 18",
+            "code": "SHR18"
+        },
+        "countyId": 18,
+        "county": {
+            "id": 18,
+            "recordStatus": 1,
+            "name": "İlçe 18",
+            "code": "ILC18",
+            "cityId": 18,
+            "city": {
+                "id": 18,
+                "recordStatus": 1,
+                "name": "Şehir 18",
+                "code": "SHR18"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "recordStatus": 1,
+        "name": "Okul 19",
+        "code": "OKL19",
+        "institutionId": 19,
+        "institution": {
+            "id": 19,
+            "recordStatus": 1,
+            "name": "Kurum 19",
+            "code": "KRM19"
+        },
+        "institutionTypeId": 19,
+        "institutionType": {
+            "id": 19,
+            "recordStatus": 1,
+            "name": "Kurum Türü 19",
+            "code": "KRMTR19"
+        },
+        "cityId": 19,
+        "city": {
+            "id": 19,
+            "recordStatus": 1,
+            "name": "Şehir 19",
+            "code": "SHR19"
+        },
+        "countyId": 19,
+        "county": {
+            "id": 19,
+            "recordStatus": 1,
+            "name": "İlçe 19",
+            "code": "ILC19",
+            "cityId": 19,
+            "city": {
+                "id": 19,
+                "recordStatus": 1,
+                "name": "Şehir 19",
+                "code": "SHR19"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "recordStatus": 1,
+        "name": "Okul 20",
+        "code": "OKL20",
+        "institutionId": 20,
+        "institution": {
+            "id": 20,
+            "recordStatus": 1,
+            "name": "Kurum 20",
+            "code": "KRM20"
+        },
+        "institutionTypeId": 20,
+        "institutionType": {
+            "id": 20,
+            "recordStatus": 1,
+            "name": "Kurum Türü 20",
+            "code": "KRMTR20"
+        },
+        "cityId": 20,
+        "city": {
+            "id": 20,
+            "recordStatus": 1,
+            "name": "Şehir 20",
+            "code": "SHR20"
+        },
+        "countyId": 20,
+        "county": {
+            "id": 20,
+            "recordStatus": 1,
+            "name": "İlçe 20",
+            "code": "ILC20",
+            "cityId": 20,
+            "city": {
+                "id": 20,
+                "recordStatus": 1,
+                "name": "Şehir 20",
+                "code": "SHR20"
+            }
+        }
+    },
+    {
+        "id": 21,
+        "recordStatus": 1,
+        "name": "Okul 21",
+        "code": "OKL21",
+        "institutionId": 21,
+        "institution": {
+            "id": 21,
+            "recordStatus": 1,
+            "name": "Kurum 21",
+            "code": "KRM21"
+        },
+        "institutionTypeId": 21,
+        "institutionType": {
+            "id": 21,
+            "recordStatus": 1,
+            "name": "Kurum Türü 21",
+            "code": "KRMTR21"
+        },
+        "cityId": 21,
+        "city": {
+            "id": 21,
+            "recordStatus": 1,
+            "name": "Şehir 21",
+            "code": "SHR21"
+        },
+        "countyId": 21,
+        "county": {
+            "id": 21,
+            "recordStatus": 1,
+            "name": "İlçe 21",
+            "code": "ILC21",
+            "cityId": 21,
+            "city": {
+                "id": 21,
+                "recordStatus": 1,
+                "name": "Şehir 21",
+                "code": "SHR21"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "recordStatus": 1,
+        "name": "Okul 22",
+        "code": "OKL22",
+        "institutionId": 22,
+        "institution": {
+            "id": 22,
+            "recordStatus": 1,
+            "name": "Kurum 22",
+            "code": "KRM22"
+        },
+        "institutionTypeId": 22,
+        "institutionType": {
+            "id": 22,
+            "recordStatus": 1,
+            "name": "Kurum Türü 22",
+            "code": "KRMTR22"
+        },
+        "cityId": 22,
+        "city": {
+            "id": 22,
+            "recordStatus": 1,
+            "name": "Şehir 22",
+            "code": "SHR22"
+        },
+        "countyId": 22,
+        "county": {
+            "id": 22,
+            "recordStatus": 1,
+            "name": "İlçe 22",
+            "code": "ILC22",
+            "cityId": 22,
+            "city": {
+                "id": 22,
+                "recordStatus": 1,
+                "name": "Şehir 22",
+                "code": "SHR22"
+            }
+        }
+    },
+    {
+        "id": 23,
+        "recordStatus": 1,
+        "name": "Okul 23",
+        "code": "OKL23",
+        "institutionId": 23,
+        "institution": {
+            "id": 23,
+            "recordStatus": 1,
+            "name": "Kurum 23",
+            "code": "KRM23"
+        },
+        "institutionTypeId": 23,
+        "institutionType": {
+            "id": 23,
+            "recordStatus": 1,
+            "name": "Kurum Türü 23",
+            "code": "KRMTR23"
+        },
+        "cityId": 23,
+        "city": {
+            "id": 23,
+            "recordStatus": 1,
+            "name": "Şehir 23",
+            "code": "SHR23"
+        },
+        "countyId": 23,
+        "county": {
+            "id": 23,
+            "recordStatus": 1,
+            "name": "İlçe 23",
+            "code": "ILC23",
+            "cityId": 23,
+            "city": {
+                "id": 23,
+                "recordStatus": 1,
+                "name": "Şehir 23",
+                "code": "SHR23"
+            }
+        }
+    },
+    {
+        "id": 24,
+        "recordStatus": 1,
+        "name": "Okul 24",
+        "code": "OKL24",
+        "institutionId": 24,
+        "institution": {
+            "id": 24,
+            "recordStatus": 1,
+            "name": "Kurum 24",
+            "code": "KRM24"
+        },
+        "institutionTypeId": 24,
+        "institutionType": {
+            "id": 24,
+            "recordStatus": 1,
+            "name": "Kurum Türü 24",
+            "code": "KRMTR24"
+        },
+        "cityId": 24,
+        "city": {
+            "id": 24,
+            "recordStatus": 1,
+            "name": "Şehir 24",
+            "code": "SHR24"
+        },
+        "countyId": 24,
+        "county": {
+            "id": 24,
+            "recordStatus": 1,
+            "name": "İlçe 24",
+            "code": "ILC24",
+            "cityId": 24,
+            "city": {
+                "id": 24,
+                "recordStatus": 1,
+                "name": "Şehir 24",
+                "code": "SHR24"
+            }
+        }
+    },
+    {
+        "id": 25,
+        "recordStatus": 1,
+        "name": "Okul 25",
+        "code": "OKL25",
+        "institutionId": 25,
+        "institution": {
+            "id": 25,
+            "recordStatus": 1,
+            "name": "Kurum 25",
+            "code": "KRM25"
+        },
+        "institutionTypeId": 25,
+        "institutionType": {
+            "id": 25,
+            "recordStatus": 1,
+            "name": "Kurum Türü 25",
+            "code": "KRMTR25"
+        },
+        "cityId": 25,
+        "city": {
+            "id": 25,
+            "recordStatus": 1,
+            "name": "Şehir 25",
+            "code": "SHR25"
+        },
+        "countyId": 25,
+        "county": {
+            "id": 25,
+            "recordStatus": 1,
+            "name": "İlçe 25",
+            "code": "ILC25",
+            "cityId": 25,
+            "city": {
+                "id": 25,
+                "recordStatus": 1,
+                "name": "Şehir 25",
+                "code": "SHR25"
+            }
+        }
+    },
+    {
+        "id": 26,
+        "recordStatus": 1,
+        "name": "Okul 26",
+        "code": "OKL26",
+        "institutionId": 26,
+        "institution": {
+            "id": 26,
+            "recordStatus": 1,
+            "name": "Kurum 26",
+            "code": "KRM26"
+        },
+        "institutionTypeId": 26,
+        "institutionType": {
+            "id": 26,
+            "recordStatus": 1,
+            "name": "Kurum Türü 26",
+            "code": "KRMTR26"
+        },
+        "cityId": 26,
+        "city": {
+            "id": 26,
+            "recordStatus": 1,
+            "name": "Şehir 26",
+            "code": "SHR26"
+        },
+        "countyId": 26,
+        "county": {
+            "id": 26,
+            "recordStatus": 1,
+            "name": "İlçe 26",
+            "code": "ILC26",
+            "cityId": 26,
+            "city": {
+                "id": 26,
+                "recordStatus": 1,
+                "name": "Şehir 26",
+                "code": "SHR26"
+            }
+        }
+    },
+    {
+        "id": 27,
+        "recordStatus": 1,
+        "name": "Okul 27",
+        "code": "OKL27",
+        "institutionId": 27,
+        "institution": {
+            "id": 27,
+            "recordStatus": 1,
+            "name": "Kurum 27",
+            "code": "KRM27"
+        },
+        "institutionTypeId": 27,
+        "institutionType": {
+            "id": 27,
+            "recordStatus": 1,
+            "name": "Kurum Türü 27",
+            "code": "KRMTR27"
+        },
+        "cityId": 27,
+        "city": {
+            "id": 27,
+            "recordStatus": 1,
+            "name": "Şehir 27",
+            "code": "SHR27"
+        },
+        "countyId": 27,
+        "county": {
+            "id": 27,
+            "recordStatus": 1,
+            "name": "İlçe 27",
+            "code": "ILC27",
+            "cityId": 27,
+            "city": {
+                "id": 27,
+                "recordStatus": 1,
+                "name": "Şehir 27",
+                "code": "SHR27"
+            }
+        }
+    },
+    {
+        "id": 28,
+        "recordStatus": 1,
+        "name": "Okul 28",
+        "code": "OKL28",
+        "institutionId": 28,
+        "institution": {
+            "id": 28,
+            "recordStatus": 1,
+            "name": "Kurum 28",
+            "code": "KRM28"
+        },
+        "institutionTypeId": 28,
+        "institutionType": {
+            "id": 28,
+            "recordStatus": 1,
+            "name": "Kurum Türü 28",
+            "code": "KRMTR28"
+        },
+        "cityId": 28,
+        "city": {
+            "id": 28,
+            "recordStatus": 1,
+            "name": "Şehir 28",
+            "code": "SHR28"
+        },
+        "countyId": 28,
+        "county": {
+            "id": 28,
+            "recordStatus": 1,
+            "name": "İlçe 28",
+            "code": "ILC28",
+            "cityId": 28,
+            "city": {
+                "id": 28,
+                "recordStatus": 1,
+                "name": "Şehir 28",
+                "code": "SHR28"
+            }
+        }
+    },
+    {
+        "id": 29,
+        "recordStatus": 1,
+        "name": "Okul 29",
+        "code": "OKL29",
+        "institutionId": 29,
+        "institution": {
+            "id": 29,
+            "recordStatus": 1,
+            "name": "Kurum 29",
+            "code": "KRM29"
+        },
+        "institutionTypeId": 29,
+        "institutionType": {
+            "id": 29,
+            "recordStatus": 1,
+            "name": "Kurum Türü 29",
+            "code": "KRMTR29"
+        },
+        "cityId": 29,
+        "city": {
+            "id": 29,
+            "recordStatus": 1,
+            "name": "Şehir 29",
+            "code": "SHR29"
+        },
+        "countyId": 29,
+        "county": {
+            "id": 29,
+            "recordStatus": 1,
+            "name": "İlçe 29",
+            "code": "ILC29",
+            "cityId": 29,
+            "city": {
+                "id": 29,
+                "recordStatus": 1,
+                "name": "Şehir 29",
+                "code": "SHR29"
+            }
+        }
+    },
+    {
+        "id": 30,
+        "recordStatus": 1,
+        "name": "Okul 30",
+        "code": "OKL30",
+        "institutionId": 30,
+        "institution": {
+            "id": 30,
+            "recordStatus": 1,
+            "name": "Kurum 30",
+            "code": "KRM30"
+        },
+        "institutionTypeId": 30,
+        "institutionType": {
+            "id": 30,
+            "recordStatus": 1,
+            "name": "Kurum Türü 30",
+            "code": "KRMTR30"
+        },
+        "cityId": 30,
+        "city": {
+            "id": 30,
+            "recordStatus": 1,
+            "name": "Şehir 30",
+            "code": "SHR30"
+        },
+        "countyId": 30,
+        "county": {
+            "id": 30,
+            "recordStatus": 1,
+            "name": "İlçe 30",
+            "code": "ILC30",
+            "cityId": 30,
+            "city": {
+                "id": 30,
+                "recordStatus": 1,
+                "name": "Şehir 30",
+                "code": "SHR30"
+            }
+        }
+    },
+    {
+        "id": 31,
+        "recordStatus": 1,
+        "name": "Okul 31",
+        "code": "OKL31",
+        "institutionId": 31,
+        "institution": {
+            "id": 31,
+            "recordStatus": 1,
+            "name": "Kurum 31",
+            "code": "KRM31"
+        },
+        "institutionTypeId": 31,
+        "institutionType": {
+            "id": 31,
+            "recordStatus": 1,
+            "name": "Kurum Türü 31",
+            "code": "KRMTR31"
+        },
+        "cityId": 31,
+        "city": {
+            "id": 31,
+            "recordStatus": 1,
+            "name": "Şehir 31",
+            "code": "SHR31"
+        },
+        "countyId": 31,
+        "county": {
+            "id": 31,
+            "recordStatus": 1,
+            "name": "İlçe 31",
+            "code": "ILC31",
+            "cityId": 31,
+            "city": {
+                "id": 31,
+                "recordStatus": 1,
+                "name": "Şehir 31",
+                "code": "SHR31"
+            }
+        }
+    },
+    {
+        "id": 32,
+        "recordStatus": 1,
+        "name": "Okul 32",
+        "code": "OKL32",
+        "institutionId": 32,
+        "institution": {
+            "id": 32,
+            "recordStatus": 1,
+            "name": "Kurum 32",
+            "code": "KRM32"
+        },
+        "institutionTypeId": 32,
+        "institutionType": {
+            "id": 32,
+            "recordStatus": 1,
+            "name": "Kurum Türü 32",
+            "code": "KRMTR32"
+        },
+        "cityId": 32,
+        "city": {
+            "id": 32,
+            "recordStatus": 1,
+            "name": "Şehir 32",
+            "code": "SHR32"
+        },
+        "countyId": 32,
+        "county": {
+            "id": 32,
+            "recordStatus": 1,
+            "name": "İlçe 32",
+            "code": "ILC32",
+            "cityId": 32,
+            "city": {
+                "id": 32,
+                "recordStatus": 1,
+                "name": "Şehir 32",
+                "code": "SHR32"
+            }
+        }
+    },
+    {
+        "id": 33,
+        "recordStatus": 1,
+        "name": "Okul 33",
+        "code": "OKL33",
+        "institutionId": 33,
+        "institution": {
+            "id": 33,
+            "recordStatus": 1,
+            "name": "Kurum 33",
+            "code": "KRM33"
+        },
+        "institutionTypeId": 33,
+        "institutionType": {
+            "id": 33,
+            "recordStatus": 1,
+            "name": "Kurum Türü 33",
+            "code": "KRMTR33"
+        },
+        "cityId": 33,
+        "city": {
+            "id": 33,
+            "recordStatus": 1,
+            "name": "Şehir 33",
+            "code": "SHR33"
+        },
+        "countyId": 33,
+        "county": {
+            "id": 33,
+            "recordStatus": 1,
+            "name": "İlçe 33",
+            "code": "ILC33",
+            "cityId": 33,
+            "city": {
+                "id": 33,
+                "recordStatus": 1,
+                "name": "Şehir 33",
+                "code": "SHR33"
+            }
+        }
+    },
+    {
+        "id": 34,
+        "recordStatus": 1,
+        "name": "Okul 34",
+        "code": "OKL34",
+        "institutionId": 34,
+        "institution": {
+            "id": 34,
+            "recordStatus": 1,
+            "name": "Kurum 34",
+            "code": "KRM34"
+        },
+        "institutionTypeId": 34,
+        "institutionType": {
+            "id": 34,
+            "recordStatus": 1,
+            "name": "Kurum Türü 34",
+            "code": "KRMTR34"
+        },
+        "cityId": 34,
+        "city": {
+            "id": 34,
+            "recordStatus": 1,
+            "name": "Şehir 34",
+            "code": "SHR34"
+        },
+        "countyId": 34,
+        "county": {
+            "id": 34,
+            "recordStatus": 1,
+            "name": "İlçe 34",
+            "code": "ILC34",
+            "cityId": 34,
+            "city": {
+                "id": 34,
+                "recordStatus": 1,
+                "name": "Şehir 34",
+                "code": "SHR34"
+            }
+        }
+    },
+    {
+        "id": 35,
+        "recordStatus": 1,
+        "name": "Okul 35",
+        "code": "OKL35",
+        "institutionId": 35,
+        "institution": {
+            "id": 35,
+            "recordStatus": 1,
+            "name": "Kurum 35",
+            "code": "KRM35"
+        },
+        "institutionTypeId": 35,
+        "institutionType": {
+            "id": 35,
+            "recordStatus": 1,
+            "name": "Kurum Türü 35",
+            "code": "KRMTR35"
+        },
+        "cityId": 35,
+        "city": {
+            "id": 35,
+            "recordStatus": 1,
+            "name": "Şehir 35",
+            "code": "SHR35"
+        },
+        "countyId": 35,
+        "county": {
+            "id": 35,
+            "recordStatus": 1,
+            "name": "İlçe 35",
+            "code": "ILC35",
+            "cityId": 35,
+            "city": {
+                "id": 35,
+                "recordStatus": 1,
+                "name": "Şehir 35",
+                "code": "SHR35"
+            }
+        }
+    },
+    {
+        "id": 36,
+        "recordStatus": 1,
+        "name": "Okul 36",
+        "code": "OKL36",
+        "institutionId": 36,
+        "institution": {
+            "id": 36,
+            "recordStatus": 1,
+            "name": "Kurum 36",
+            "code": "KRM36"
+        },
+        "institutionTypeId": 36,
+        "institutionType": {
+            "id": 36,
+            "recordStatus": 1,
+            "name": "Kurum Türü 36",
+            "code": "KRMTR36"
+        },
+        "cityId": 36,
+        "city": {
+            "id": 36,
+            "recordStatus": 1,
+            "name": "Şehir 36",
+            "code": "SHR36"
+        },
+        "countyId": 36,
+        "county": {
+            "id": 36,
+            "recordStatus": 1,
+            "name": "İlçe 36",
+            "code": "ILC36",
+            "cityId": 36,
+            "city": {
+                "id": 36,
+                "recordStatus": 1,
+                "name": "Şehir 36",
+                "code": "SHR36"
+            }
+        }
+    },
+    {
+        "id": 37,
+        "recordStatus": 1,
+        "name": "Okul 37",
+        "code": "OKL37",
+        "institutionId": 37,
+        "institution": {
+            "id": 37,
+            "recordStatus": 1,
+            "name": "Kurum 37",
+            "code": "KRM37"
+        },
+        "institutionTypeId": 37,
+        "institutionType": {
+            "id": 37,
+            "recordStatus": 1,
+            "name": "Kurum Türü 37",
+            "code": "KRMTR37"
+        },
+        "cityId": 37,
+        "city": {
+            "id": 37,
+            "recordStatus": 1,
+            "name": "Şehir 37",
+            "code": "SHR37"
+        },
+        "countyId": 37,
+        "county": {
+            "id": 37,
+            "recordStatus": 1,
+            "name": "İlçe 37",
+            "code": "ILC37",
+            "cityId": 37,
+            "city": {
+                "id": 37,
+                "recordStatus": 1,
+                "name": "Şehir 37",
+                "code": "SHR37"
+            }
+        }
+    },
+    {
+        "id": 38,
+        "recordStatus": 1,
+        "name": "Okul 38",
+        "code": "OKL38",
+        "institutionId": 38,
+        "institution": {
+            "id": 38,
+            "recordStatus": 1,
+            "name": "Kurum 38",
+            "code": "KRM38"
+        },
+        "institutionTypeId": 38,
+        "institutionType": {
+            "id": 38,
+            "recordStatus": 1,
+            "name": "Kurum Türü 38",
+            "code": "KRMTR38"
+        },
+        "cityId": 38,
+        "city": {
+            "id": 38,
+            "recordStatus": 1,
+            "name": "Şehir 38",
+            "code": "SHR38"
+        },
+        "countyId": 38,
+        "county": {
+            "id": 38,
+            "recordStatus": 1,
+            "name": "İlçe 38",
+            "code": "ILC38",
+            "cityId": 38,
+            "city": {
+                "id": 38,
+                "recordStatus": 1,
+                "name": "Şehir 38",
+                "code": "SHR38"
+            }
+        }
+    },
+    {
+        "id": 39,
+        "recordStatus": 1,
+        "name": "Okul 39",
+        "code": "OKL39",
+        "institutionId": 39,
+        "institution": {
+            "id": 39,
+            "recordStatus": 1,
+            "name": "Kurum 39",
+            "code": "KRM39"
+        },
+        "institutionTypeId": 39,
+        "institutionType": {
+            "id": 39,
+            "recordStatus": 1,
+            "name": "Kurum Türü 39",
+            "code": "KRMTR39"
+        },
+        "cityId": 39,
+        "city": {
+            "id": 39,
+            "recordStatus": 1,
+            "name": "Şehir 39",
+            "code": "SHR39"
+        },
+        "countyId": 39,
+        "county": {
+            "id": 39,
+            "recordStatus": 1,
+            "name": "İlçe 39",
+            "code": "ILC39",
+            "cityId": 39,
+            "city": {
+                "id": 39,
+                "recordStatus": 1,
+                "name": "Şehir 39",
+                "code": "SHR39"
+            }
+        }
+    },
+    {
+        "id": 40,
+        "recordStatus": 1,
+        "name": "Okul 40",
+        "code": "OKL40",
+        "institutionId": 40,
+        "institution": {
+            "id": 40,
+            "recordStatus": 1,
+            "name": "Kurum 40",
+            "code": "KRM40"
+        },
+        "institutionTypeId": 40,
+        "institutionType": {
+            "id": 40,
+            "recordStatus": 1,
+            "name": "Kurum Türü 40",
+            "code": "KRMTR40"
+        },
+        "cityId": 40,
+        "city": {
+            "id": 40,
+            "recordStatus": 1,
+            "name": "Şehir 40",
+            "code": "SHR40"
+        },
+        "countyId": 40,
+        "county": {
+            "id": 40,
+            "recordStatus": 1,
+            "name": "İlçe 40",
+            "code": "ILC40",
+            "cityId": 40,
+            "city": {
+                "id": 40,
+                "recordStatus": 1,
+                "name": "Şehir 40",
+                "code": "SHR40"
+            }
+        }
+    },
+    {
+        "id": 41,
+        "recordStatus": 1,
+        "name": "Okul 41",
+        "code": "OKL41",
+        "institutionId": 41,
+        "institution": {
+            "id": 41,
+            "recordStatus": 1,
+            "name": "Kurum 41",
+            "code": "KRM41"
+        },
+        "institutionTypeId": 41,
+        "institutionType": {
+            "id": 41,
+            "recordStatus": 1,
+            "name": "Kurum Türü 41",
+            "code": "KRMTR41"
+        },
+        "cityId": 41,
+        "city": {
+            "id": 41,
+            "recordStatus": 1,
+            "name": "Şehir 41",
+            "code": "SHR41"
+        },
+        "countyId": 41,
+        "county": {
+            "id": 41,
+            "recordStatus": 1,
+            "name": "İlçe 41",
+            "code": "ILC41",
+            "cityId": 41,
+            "city": {
+                "id": 41,
+                "recordStatus": 1,
+                "name": "Şehir 41",
+                "code": "SHR41"
+            }
+        }
+    },
+    {
+        "id": 42,
+        "recordStatus": 1,
+        "name": "Okul 42",
+        "code": "OKL42",
+        "institutionId": 42,
+        "institution": {
+            "id": 42,
+            "recordStatus": 1,
+            "name": "Kurum 42",
+            "code": "KRM42"
+        },
+        "institutionTypeId": 42,
+        "institutionType": {
+            "id": 42,
+            "recordStatus": 1,
+            "name": "Kurum Türü 42",
+            "code": "KRMTR42"
+        },
+        "cityId": 42,
+        "city": {
+            "id": 42,
+            "recordStatus": 1,
+            "name": "Şehir 42",
+            "code": "SHR42"
+        },
+        "countyId": 42,
+        "county": {
+            "id": 42,
+            "recordStatus": 1,
+            "name": "İlçe 42",
+            "code": "ILC42",
+            "cityId": 42,
+            "city": {
+                "id": 42,
+                "recordStatus": 1,
+                "name": "Şehir 42",
+                "code": "SHR42"
+            }
+        }
+    },
+    {
+        "id": 43,
+        "recordStatus": 1,
+        "name": "Okul 43",
+        "code": "OKL43",
+        "institutionId": 43,
+        "institution": {
+            "id": 43,
+            "recordStatus": 1,
+            "name": "Kurum 43",
+            "code": "KRM43"
+        },
+        "institutionTypeId": 43,
+        "institutionType": {
+            "id": 43,
+            "recordStatus": 1,
+            "name": "Kurum Türü 43",
+            "code": "KRMTR43"
+        },
+        "cityId": 43,
+        "city": {
+            "id": 43,
+            "recordStatus": 1,
+            "name": "Şehir 43",
+            "code": "SHR43"
+        },
+        "countyId": 43,
+        "county": {
+            "id": 43,
+            "recordStatus": 1,
+            "name": "İlçe 43",
+            "code": "ILC43",
+            "cityId": 43,
+            "city": {
+                "id": 43,
+                "recordStatus": 1,
+                "name": "Şehir 43",
+                "code": "SHR43"
+            }
+        }
+    },
+    {
+        "id": 44,
+        "recordStatus": 1,
+        "name": "Okul 44",
+        "code": "OKL44",
+        "institutionId": 44,
+        "institution": {
+            "id": 44,
+            "recordStatus": 1,
+            "name": "Kurum 44",
+            "code": "KRM44"
+        },
+        "institutionTypeId": 44,
+        "institutionType": {
+            "id": 44,
+            "recordStatus": 1,
+            "name": "Kurum Türü 44",
+            "code": "KRMTR44"
+        },
+        "cityId": 44,
+        "city": {
+            "id": 44,
+            "recordStatus": 1,
+            "name": "Şehir 44",
+            "code": "SHR44"
+        },
+        "countyId": 44,
+        "county": {
+            "id": 44,
+            "recordStatus": 1,
+            "name": "İlçe 44",
+            "code": "ILC44",
+            "cityId": 44,
+            "city": {
+                "id": 44,
+                "recordStatus": 1,
+                "name": "Şehir 44",
+                "code": "SHR44"
+            }
+        }
+    },
+    {
+        "id": 45,
+        "recordStatus": 1,
+        "name": "Okul 45",
+        "code": "OKL45",
+        "institutionId": 45,
+        "institution": {
+            "id": 45,
+            "recordStatus": 1,
+            "name": "Kurum 45",
+            "code": "KRM45"
+        },
+        "institutionTypeId": 45,
+        "institutionType": {
+            "id": 45,
+            "recordStatus": 1,
+            "name": "Kurum Türü 45",
+            "code": "KRMTR45"
+        },
+        "cityId": 45,
+        "city": {
+            "id": 45,
+            "recordStatus": 1,
+            "name": "Şehir 45",
+            "code": "SHR45"
+        },
+        "countyId": 45,
+        "county": {
+            "id": 45,
+            "recordStatus": 1,
+            "name": "İlçe 45",
+            "code": "ILC45",
+            "cityId": 45,
+            "city": {
+                "id": 45,
+                "recordStatus": 1,
+                "name": "Şehir 45",
+                "code": "SHR45"
+            }
+        }
+    },
+    {
+        "id": 46,
+        "recordStatus": 1,
+        "name": "Okul 46",
+        "code": "OKL46",
+        "institutionId": 46,
+        "institution": {
+            "id": 46,
+            "recordStatus": 1,
+            "name": "Kurum 46",
+            "code": "KRM46"
+        },
+        "institutionTypeId": 46,
+        "institutionType": {
+            "id": 46,
+            "recordStatus": 1,
+            "name": "Kurum Türü 46",
+            "code": "KRMTR46"
+        },
+        "cityId": 46,
+        "city": {
+            "id": 46,
+            "recordStatus": 1,
+            "name": "Şehir 46",
+            "code": "SHR46"
+        },
+        "countyId": 46,
+        "county": {
+            "id": 46,
+            "recordStatus": 1,
+            "name": "İlçe 46",
+            "code": "ILC46",
+            "cityId": 46,
+            "city": {
+                "id": 46,
+                "recordStatus": 1,
+                "name": "Şehir 46",
+                "code": "SHR46"
+            }
+        }
+    },
+    {
+        "id": 47,
+        "recordStatus": 1,
+        "name": "Okul 47",
+        "code": "OKL47",
+        "institutionId": 47,
+        "institution": {
+            "id": 47,
+            "recordStatus": 1,
+            "name": "Kurum 47",
+            "code": "KRM47"
+        },
+        "institutionTypeId": 47,
+        "institutionType": {
+            "id": 47,
+            "recordStatus": 1,
+            "name": "Kurum Türü 47",
+            "code": "KRMTR47"
+        },
+        "cityId": 47,
+        "city": {
+            "id": 47,
+            "recordStatus": 1,
+            "name": "Şehir 47",
+            "code": "SHR47"
+        },
+        "countyId": 47,
+        "county": {
+            "id": 47,
+            "recordStatus": 1,
+            "name": "İlçe 47",
+            "code": "ILC47",
+            "cityId": 47,
+            "city": {
+                "id": 47,
+                "recordStatus": 1,
+                "name": "Şehir 47",
+                "code": "SHR47"
+            }
+        }
+    },
+    {
+        "id": 48,
+        "recordStatus": 1,
+        "name": "Okul 48",
+        "code": "OKL48",
+        "institutionId": 48,
+        "institution": {
+            "id": 48,
+            "recordStatus": 1,
+            "name": "Kurum 48",
+            "code": "KRM48"
+        },
+        "institutionTypeId": 48,
+        "institutionType": {
+            "id": 48,
+            "recordStatus": 1,
+            "name": "Kurum Türü 48",
+            "code": "KRMTR48"
+        },
+        "cityId": 48,
+        "city": {
+            "id": 48,
+            "recordStatus": 1,
+            "name": "Şehir 48",
+            "code": "SHR48"
+        },
+        "countyId": 48,
+        "county": {
+            "id": 48,
+            "recordStatus": 1,
+            "name": "İlçe 48",
+            "code": "ILC48",
+            "cityId": 48,
+            "city": {
+                "id": 48,
+                "recordStatus": 1,
+                "name": "Şehir 48",
+                "code": "SHR48"
+            }
+        }
+    },
+    {
+        "id": 49,
+        "recordStatus": 1,
+        "name": "Okul 49",
+        "code": "OKL49",
+        "institutionId": 49,
+        "institution": {
+            "id": 49,
+            "recordStatus": 1,
+            "name": "Kurum 49",
+            "code": "KRM49"
+        },
+        "institutionTypeId": 49,
+        "institutionType": {
+            "id": 49,
+            "recordStatus": 1,
+            "name": "Kurum Türü 49",
+            "code": "KRMTR49"
+        },
+        "cityId": 49,
+        "city": {
+            "id": 49,
+            "recordStatus": 1,
+            "name": "Şehir 49",
+            "code": "SHR49"
+        },
+        "countyId": 49,
+        "county": {
+            "id": 49,
+            "recordStatus": 1,
+            "name": "İlçe 49",
+            "code": "ILC49",
+            "cityId": 49,
+            "city": {
+                "id": 49,
+                "recordStatus": 1,
+                "name": "Şehir 49",
+                "code": "SHR49"
+            }
+        }
+    },
+    {
+        "id": 50,
+        "recordStatus": 1,
+        "name": "Okul 50",
+        "code": "OKL50",
+        "institutionId": 50,
+        "institution": {
+            "id": 50,
+            "recordStatus": 1,
+            "name": "Kurum 50",
+            "code": "KRM50"
+        },
+        "institutionTypeId": 50,
+        "institutionType": {
+            "id": 50,
+            "recordStatus": 1,
+            "name": "Kurum Türü 50",
+            "code": "KRMTR50"
+        },
+        "cityId": 50,
+        "city": {
+            "id": 50,
+            "recordStatus": 1,
+            "name": "Şehir 50",
+            "code": "SHR50"
+        },
+        "countyId": 50,
+        "county": {
+            "id": 50,
+            "recordStatus": 1,
+            "name": "İlçe 50",
+            "code": "ILC50",
+            "cityId": 50,
+            "city": {
+                "id": 50,
+                "recordStatus": 1,
+                "name": "Şehir 50",
+                "code": "SHR50"
+            }
+        }
+    }
+]
